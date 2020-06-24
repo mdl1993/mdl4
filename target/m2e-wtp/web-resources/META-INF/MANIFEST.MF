@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Riccardino Fuffolo
+Build-Jdk: 14.0.1
+Implementation-Title: CrmRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.sincrono
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CrmRest
+Created-By: Maven Integration for Eclipse
+
